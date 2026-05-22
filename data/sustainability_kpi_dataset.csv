@@ -1,27 +1,37 @@
 company,year,kpi_category,kpi_name,value,unit,source_note
-RWE Group,2024,Carbon,Scope 1 GHG emissions,53242042,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Scope 2 location-based GHG emissions,392956,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Scope 3 GHG emissions,21766996,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Total GHG emissions location-based,75401993,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Scope 3 Category 1 Purchased goods and services,1283837,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Scope 3 Category 2 Capital goods,3657603,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Carbon,Scope 3 Category 5 Waste generated in operations,189037,metric tons CO2e,RWE Annual Report 2024
-RWE Group,2024,Waste,Total waste generated,3803.8,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Non-recycled waste,3678.9,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Hazardous waste,56.6,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Waste directed to disposal - non-hazardous,553.0,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Waste directed to disposal - hazardous,27.3,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Waste diverted from disposal - non-hazardous,3194.1,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Waste,Waste diverted from disposal - hazardous,29.3,thousand metric tons,RWE Annual Report 2024
-RWE Group,2024,Circularity,Recovery rate of core business,88.3,percent,RWE Annual Report 2024
-RWE Group,2030,Circularity,Recovery rate target of core business,90.0,percent,RWE Annual Report 2024
-RWE Group,2024,Materials,Total weight of products,1295769,metric tons,RWE Annual Report 2024
-RWE Group,2024,Materials,Concrete,781525,metric tons,RWE Annual Report 2024
-RWE Group,2024,Materials,Ferrous metal mainly steel,377512,metric tons,RWE Annual Report 2024
-RWE Group,2024,Materials,Glass,80194,metric tons,RWE Annual Report 2024
-RWE Group,2024,Materials,Non-ferrous metal mainly aluminium and copper,25424,metric tons,RWE Annual Report 2024
-RWE Group,2024,Materials,Estimated recycled content in ferrous metals,29,percent,RWE Annual Report 2024
-RWE Group,2024,Materials,Estimated recycled content in non-ferrous metals,20,percent,RWE Annual Report 2024
-RWE Group,2024,Materials,Estimated recycled content in glass,20,percent,RWE Annual Report 2024
-RWE Group,2028,Biodiversity,Goal to measure biodiversity impact for all facilities,100,percent of facilities,RWE Annual Report 2024
-RWE Group,2030,Biodiversity,Goal for new facilities to have net-positive biodiversity impact,1,target,RWE Annual Report 2024
+RWE Group,2025,Carbon,Gross Scope 1 GHG emissions,51.89,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Gross location-based Scope 2 GHG emissions,0.22,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Gross market-based Scope 2 GHG emissions,0.22,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Total gross indirect Scope 3 GHG emissions,19.47,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Total GHG emissions location-based,71.58,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Total GHG emissions market-based,71.58,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 1 Purchased goods and services,1.09,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 2 Capital goods,2.80,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 3 Fuel and energy-related activities,3.60,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 5 Waste generated in operations,0.09,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 11 Use of sold products,9.21,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Carbon,Scope 3 Category 15 Investments,2.47,million metric tons CO2e,RWE Annual Report 2025
+RWE Group,2025,Waste,Total waste generated,3283.1,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Non-recycled waste total,2969.1,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Non-recycled waste non-hazardous,2867.0,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Non-recycled waste hazardous,102.1,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Hazardous waste total,129.3,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Waste directed to disposal non-hazardous,472.9,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Waste directed to disposal hazardous,35.9,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,External incineration non-hazardous,2.6,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,External landfill non-hazardous,41.1,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Waste,Other disposal operations non-hazardous,429.2,thousand metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Total weight of products,1032679,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Ferrous metal mainly steel,498503,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Concrete,127587,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Non-ferrous metal mainly aluminium and copper,80003,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Polymers,66101,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Glass,41395,metric tons,RWE Annual Report 2025
+RWE Group,2025,Materials,Other materials,219090,metric tons,RWE Annual Report 2025
+RWE Group,2025,Circularity,Absolute weight of secondary materials used,168845,metric tons,RWE Annual Report 2025
+RWE Group,2025,Circularity,Percentage of secondary materials used,16,percent,RWE Annual Report 2025
+RWE Group,2025,Circularity,Estimated recycled content in ferrous metals,29,percent,RWE Annual Report 2025
+RWE Group,2025,Circularity,Estimated recycled content in non-ferrous metals,20,percent,RWE Annual Report 2025
+RWE Group,2025,Circularity,Estimated recycled content in glass,20,percent,RWE Annual Report 2025
+RWE Group,2028,Biodiversity,Target to measure biodiversity impact for all facilities,100,percent of facilities,RWE Annual Report 2025 / RWE biodiversity strategy
+RWE Group,2030,Biodiversity,Target for new facilities to have net-positive biodiversity impact,1,target,RWE Annual Report 2025 / RWE biodiversity strategy
