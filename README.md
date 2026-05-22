@@ -34,11 +34,11 @@ The Excel dashboard summarises key RWE 2025 sustainability indicators, including
 
 ![Excel Dashboard Overview](powerbi/excel_dashboard_overview.png)
 
-![Carbon Emissions Chart](powerbi/dashboard_screenshots/carbon_emissions_chart.png)
+![Carbon Emissions Chart](powerbi/carbon_emissions_chart.png)
 
-![Waste Indicators Chart](powerbi/dashboard_screenshots/waste_indicators_chart.png)
+![Waste Indicators Chart](powerbi/waste_indicators_chart.png)
 
-![Materials Breakdown Chart](powerbi/dashboard_screenshots/materials_breakdown_chart.png)
+![Materials Breakdown Chart](powerbi/materials_breakdown_chart.png)
 
 ## Data Source
 
