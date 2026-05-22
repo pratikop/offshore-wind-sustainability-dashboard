@@ -1,0 +1,19 @@
+project_id,project_name,phase,kpi_category,kpi_name,value,unit,year,notes
+OWF-001,North Sea Demo Wind Farm,Manufacturing,Carbon,Steel structure emissions,12500,tCO2e,2026,Estimated emissions from steel foundation manufacturing
+OWF-001,North Sea Demo Wind Farm,Manufacturing,Carbon,Turbine component emissions,8700,tCO2e,2026,Estimated emissions from nacelle and tower production
+OWF-001,North Sea Demo Wind Farm,Transport,Carbon,Marine transport emissions,2100,tCO2e,2026,Estimated vessel and logistics emissions
+OWF-001,North Sea Demo Wind Farm,Installation,Carbon,Installation vessel emissions,4300,tCO2e,2026,Estimated emissions from installation vessels
+OWF-001,North Sea Demo Wind Farm,Operation,Carbon,Annual operational emissions,950,tCO2e,2026,Maintenance and operational activities
+OWF-001,North Sea Demo Wind Farm,Decommissioning,Carbon,End-of-life emissions,3200,tCO2e,2026,Estimated decommissioning phase emissions
+OWF-001,North Sea Demo Wind Farm,Manufacturing,Waste,Steel scrap,620,tonnes,2026,Recoverable steel waste from manufacturing
+OWF-001,North Sea Demo Wind Farm,Manufacturing,Waste,Composite waste,180,tonnes,2026,Blade and composite material waste
+OWF-001,North Sea Demo Wind Farm,Installation,Waste,Cable offcuts,75,tonnes,2026,Electrical cable installation waste
+OWF-001,North Sea Demo Wind Farm,Operation,Waste,Maintenance waste,42,tonnes,2026,Routine maintenance waste
+OWF-001,North Sea Demo Wind Farm,Decommissioning,Waste,Blade waste,240,tonnes,2026,End-of-life blade material waste
+OWF-001,North Sea Demo Wind Farm,Manufacturing,Circularity,Recycled steel share,38,percent,2026,Share of recycled steel in project materials
+OWF-001,North Sea Demo Wind Farm,Decommissioning,Circularity,Material recovery rate,72,percent,2026,Estimated recoverable material at end of life
+OWF-001,North Sea Demo Wind Farm,Decommissioning,Circularity,Blade recycling rate,45,percent,2026,Scenario-based blade recycling estimate
+OWF-001,North Sea Demo Wind Farm,Operation,Biodiversity,Artificial reef units installed,12,count,2026,Potential biodiversity enhancement measure
+OWF-001,North Sea Demo Wind Farm,Operation,Biodiversity,Habitat restoration actions,5,count,2026,Planned marine habitat restoration actions
+OWF-001,North Sea Demo Wind Farm,Operation,ESG,Community engagement events,4,count,2026,Stakeholder and community engagement activities
+OWF-001,North Sea Demo Wind Farm,Operation,ESG,Sustainability reporting tasks completed,18,count,2026,Internal sustainability documentation and reporting tasks
