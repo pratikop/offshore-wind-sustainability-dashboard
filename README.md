@@ -1,40 +1,57 @@
-# Offshore Wind Sustainability Dashboard
+# RWE Sustainability KPI Dashboard
 
 ## Project Overview
 
-This project presents a sustainability KPI dashboard for a fictional offshore wind project. The aim is to track and visualise key sustainability indicators related to carbon emissions, waste streams, circularity, and biodiversity actions.
+This project analyses publicly available RWE sustainability data from 2025 and converts it into a dashboard-ready KPI dataset.
 
-The project is inspired by sustainability topics in the offshore wind sector, including carbon reduction, circular materials, blade recycling, decommissioning practices, artificial reefs, and habitat restoration.
+The aim is to demonstrate sustainability data analysis, ESG-style KPI tracking, Python-supported data validation, and dashboard preparation using real public corporate sustainability reporting.
 
-## Objectives
+## Data Source
 
-- Track carbon emissions across offshore wind project phases
-- Analyse waste streams and recycling potential
-- Monitor circularity indicators such as recycled material share and component reuse
-- Summarise biodiversity-related actions such as artificial reefs and habitat restoration
-- Create clear Excel and Power BI visualisations for sustainability reporting
+The dataset is based on public RWE Group sustainability reporting for 2025.
+
+Main sources:
+
+- RWE Annual Report 2025
+- RWE Sustainability Key Figures Report 2025
+- RWE Group Sustainability Reporting – Data 2025
+
+## Data Scope
+
+The dataset uses Group-level RWE sustainability indicators. It does not represent confidential company data or project-level offshore wind farm data.
+
+The project focuses on:
+
+- Carbon emissions
+- Waste indicators
+- Materials and circularity
+- Biodiversity targets
 
 ## Tools Used
 
+- Python
+- pandas
+- matplotlib
 - Microsoft Excel
 - Power BI
-- Python
-- CSV data
 - GitHub
 
-## Planned Outputs
+## Repository Structure
 
-- Sustainability KPI dataset
-- Excel-based KPI tracker
-- Power BI dashboard
-- Short methodology document
-- Dashboard screenshots
+```text
+data/
+  rwe_sustainability_kpi_2025.csv
 
-## Key Skills Demonstrated
+docs/
+  methodology.md
+  sources.md
 
-- Sustainability data analysis
-- ESG-style KPI tracking
-- Power BI dashboarding
-- Excel data modelling
-- Structured documentation
-- Offshore wind sustainability research
+src/
+  check_dataset.py
+  summary_analysis.py
+  create_charts.py
+
+powerbi/
+  dashboard_screenshots/
+
+requirements.txt
